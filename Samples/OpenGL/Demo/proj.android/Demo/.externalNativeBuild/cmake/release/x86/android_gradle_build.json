@@ -1,0 +1,319 @@
+
+{
+	"buildFiles" : 
+	[
+		"/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"/Users/hgf/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/.externalNativeBuild/cmake/release/x86 --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"JniBridge-Release-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "JniBridge",
+			"buildCommand" : "/Users/hgf/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/.externalNativeBuild/cmake/release/x86 --target JniBridge",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=i686-none-linux-android22 --gcc-toolchain=/Users/hgf/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/hgf/Library/Android/sdk/ndk-bundle/sysroot  -DJniBridge_EXPORTS -I../../../../../../../../../Core/include -I../../../../../../../thirdParty/stb/include -I../../../../../../../../../Framework/src -I../../../../src/main/cpp/src -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -stdlib=libc++ -O2 -DNDEBUG  -fPIC   -D CSM_TARGET_ANDROID_ES2  -c ",
+					"src" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/src/main/cpp/JniBridgeC.cpp",
+					"workingDirectory" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android22 --gcc-toolchain=/Users/hgf/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/hgf/Library/Android/sdk/ndk-bundle/sysroot  -DJniBridge_EXPORTS -I../../../../../../../../../Core/include -I../../../../../../../thirdParty/stb/include -I../../../../../../../../../Framework/src -I../../../../src/main/cpp/src -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -stdlib=libc++ -O2 -DNDEBUG  -fPIC   -D CSM_TARGET_ANDROID_ES2  -c ",
+					"src" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Framework/src/CubismDefaultParameterId.cpp",
+					"workingDirectory" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android22 --gcc-toolchain=/Users/hgf/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/hgf/Library/Android/sdk/ndk-bundle/sysroot  -DJniBridge_EXPORTS -I../../../../../../../../../Core/include -I../../../../../../../thirdParty/stb/include -I../../../../../../../../../Framework/src -I../../../../src/main/cpp/src -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -stdlib=libc++ -O2 -DNDEBUG  -fPIC   -D CSM_TARGET_ANDROID_ES2  -c ",
+					"src" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Framework/src/CubismFramework.cpp",
+					"workingDirectory" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android22 --gcc-toolchain=/Users/hgf/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/hgf/Library/Android/sdk/ndk-bundle/sysroot  -DJniBridge_EXPORTS -I../../../../../../../../../Core/include -I../../../../../../../thirdParty/stb/include -I../../../../../../../../../Framework/src -I../../../../src/main/cpp/src -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -stdlib=libc++ -O2 -DNDEBUG  -fPIC   -D CSM_TARGET_ANDROID_ES2  -c ",
+					"src" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Framework/src/CubismModelSettingJson.cpp",
+					"workingDirectory" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android22 --gcc-toolchain=/Users/hgf/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/hgf/Library/Android/sdk/ndk-bundle/sysroot  -DJniBridge_EXPORTS -I../../../../../../../../../Core/include -I../../../../../../../thirdParty/stb/include -I../../../../../../../../../Framework/src -I../../../../src/main/cpp/src -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -stdlib=libc++ -O2 -DNDEBUG  -fPIC   -D CSM_TARGET_ANDROID_ES2  -c ",
+					"src" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Framework/src/Effect/CubismBreath.cpp",
+					"workingDirectory" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android22 --gcc-toolchain=/Users/hgf/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/hgf/Library/Android/sdk/ndk-bundle/sysroot  -DJniBridge_EXPORTS -I../../../../../../../../../Core/include -I../../../../../../../thirdParty/stb/include -I../../../../../../../../../Framework/src -I../../../../src/main/cpp/src -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -stdlib=libc++ -O2 -DNDEBUG  -fPIC   -D CSM_TARGET_ANDROID_ES2  -c ",
+					"src" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Framework/src/Effect/CubismEyeBlink.cpp",
+					"workingDirectory" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android22 --gcc-toolchain=/Users/hgf/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/hgf/Library/Android/sdk/ndk-bundle/sysroot  -DJniBridge_EXPORTS -I../../../../../../../../../Core/include -I../../../../../../../thirdParty/stb/include -I../../../../../../../../../Framework/src -I../../../../src/main/cpp/src -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -stdlib=libc++ -O2 -DNDEBUG  -fPIC   -D CSM_TARGET_ANDROID_ES2  -c ",
+					"src" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Framework/src/Effect/CubismPose.cpp",
+					"workingDirectory" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android22 --gcc-toolchain=/Users/hgf/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/hgf/Library/Android/sdk/ndk-bundle/sysroot  -DJniBridge_EXPORTS -I../../../../../../../../../Core/include -I../../../../../../../thirdParty/stb/include -I../../../../../../../../../Framework/src -I../../../../src/main/cpp/src -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -stdlib=libc++ -O2 -DNDEBUG  -fPIC   -D CSM_TARGET_ANDROID_ES2  -c ",
+					"src" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Framework/src/Id/CubismId.cpp",
+					"workingDirectory" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android22 --gcc-toolchain=/Users/hgf/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/hgf/Library/Android/sdk/ndk-bundle/sysroot  -DJniBridge_EXPORTS -I../../../../../../../../../Core/include -I../../../../../../../thirdParty/stb/include -I../../../../../../../../../Framework/src -I../../../../src/main/cpp/src -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -stdlib=libc++ -O2 -DNDEBUG  -fPIC   -D CSM_TARGET_ANDROID_ES2  -c ",
+					"src" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Framework/src/Id/CubismIdManager.cpp",
+					"workingDirectory" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android22 --gcc-toolchain=/Users/hgf/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/hgf/Library/Android/sdk/ndk-bundle/sysroot  -DJniBridge_EXPORTS -I../../../../../../../../../Core/include -I../../../../../../../thirdParty/stb/include -I../../../../../../../../../Framework/src -I../../../../src/main/cpp/src -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -stdlib=libc++ -O2 -DNDEBUG  -fPIC   -D CSM_TARGET_ANDROID_ES2  -c ",
+					"src" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Framework/src/Math/CubismMath.cpp",
+					"workingDirectory" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android22 --gcc-toolchain=/Users/hgf/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/hgf/Library/Android/sdk/ndk-bundle/sysroot  -DJniBridge_EXPORTS -I../../../../../../../../../Core/include -I../../../../../../../thirdParty/stb/include -I../../../../../../../../../Framework/src -I../../../../src/main/cpp/src -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -stdlib=libc++ -O2 -DNDEBUG  -fPIC   -D CSM_TARGET_ANDROID_ES2  -c ",
+					"src" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Framework/src/Math/CubismMatrix44.cpp",
+					"workingDirectory" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android22 --gcc-toolchain=/Users/hgf/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/hgf/Library/Android/sdk/ndk-bundle/sysroot  -DJniBridge_EXPORTS -I../../../../../../../../../Core/include -I../../../../../../../thirdParty/stb/include -I../../../../../../../../../Framework/src -I../../../../src/main/cpp/src -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -stdlib=libc++ -O2 -DNDEBUG  -fPIC   -D CSM_TARGET_ANDROID_ES2  -c ",
+					"src" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Framework/src/Math/CubismModelMatrix.cpp",
+					"workingDirectory" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android22 --gcc-toolchain=/Users/hgf/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/hgf/Library/Android/sdk/ndk-bundle/sysroot  -DJniBridge_EXPORTS -I../../../../../../../../../Core/include -I../../../../../../../thirdParty/stb/include -I../../../../../../../../../Framework/src -I../../../../src/main/cpp/src -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -stdlib=libc++ -O2 -DNDEBUG  -fPIC   -D CSM_TARGET_ANDROID_ES2  -c ",
+					"src" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Framework/src/Math/CubismTargetPoint.cpp",
+					"workingDirectory" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android22 --gcc-toolchain=/Users/hgf/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/hgf/Library/Android/sdk/ndk-bundle/sysroot  -DJniBridge_EXPORTS -I../../../../../../../../../Core/include -I../../../../../../../thirdParty/stb/include -I../../../../../../../../../Framework/src -I../../../../src/main/cpp/src -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -stdlib=libc++ -O2 -DNDEBUG  -fPIC   -D CSM_TARGET_ANDROID_ES2  -c ",
+					"src" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Framework/src/Math/CubismVector2.cpp",
+					"workingDirectory" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android22 --gcc-toolchain=/Users/hgf/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/hgf/Library/Android/sdk/ndk-bundle/sysroot  -DJniBridge_EXPORTS -I../../../../../../../../../Core/include -I../../../../../../../thirdParty/stb/include -I../../../../../../../../../Framework/src -I../../../../src/main/cpp/src -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -stdlib=libc++ -O2 -DNDEBUG  -fPIC   -D CSM_TARGET_ANDROID_ES2  -c ",
+					"src" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Framework/src/Math/CubismViewMatrix.cpp",
+					"workingDirectory" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android22 --gcc-toolchain=/Users/hgf/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/hgf/Library/Android/sdk/ndk-bundle/sysroot  -DJniBridge_EXPORTS -I../../../../../../../../../Core/include -I../../../../../../../thirdParty/stb/include -I../../../../../../../../../Framework/src -I../../../../src/main/cpp/src -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -stdlib=libc++ -O2 -DNDEBUG  -fPIC   -D CSM_TARGET_ANDROID_ES2  -c ",
+					"src" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Framework/src/Model/CubismMoc.cpp",
+					"workingDirectory" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android22 --gcc-toolchain=/Users/hgf/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/hgf/Library/Android/sdk/ndk-bundle/sysroot  -DJniBridge_EXPORTS -I../../../../../../../../../Core/include -I../../../../../../../thirdParty/stb/include -I../../../../../../../../../Framework/src -I../../../../src/main/cpp/src -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -stdlib=libc++ -O2 -DNDEBUG  -fPIC   -D CSM_TARGET_ANDROID_ES2  -c ",
+					"src" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Framework/src/Model/CubismModel.cpp",
+					"workingDirectory" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android22 --gcc-toolchain=/Users/hgf/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/hgf/Library/Android/sdk/ndk-bundle/sysroot  -DJniBridge_EXPORTS -I../../../../../../../../../Core/include -I../../../../../../../thirdParty/stb/include -I../../../../../../../../../Framework/src -I../../../../src/main/cpp/src -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -stdlib=libc++ -O2 -DNDEBUG  -fPIC   -D CSM_TARGET_ANDROID_ES2  -c ",
+					"src" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Framework/src/Model/CubismModelUserData.cpp",
+					"workingDirectory" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android22 --gcc-toolchain=/Users/hgf/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/hgf/Library/Android/sdk/ndk-bundle/sysroot  -DJniBridge_EXPORTS -I../../../../../../../../../Core/include -I../../../../../../../thirdParty/stb/include -I../../../../../../../../../Framework/src -I../../../../src/main/cpp/src -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -stdlib=libc++ -O2 -DNDEBUG  -fPIC   -D CSM_TARGET_ANDROID_ES2  -c ",
+					"src" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Framework/src/Model/CubismModelUserDataJson.cpp",
+					"workingDirectory" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android22 --gcc-toolchain=/Users/hgf/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/hgf/Library/Android/sdk/ndk-bundle/sysroot  -DJniBridge_EXPORTS -I../../../../../../../../../Core/include -I../../../../../../../thirdParty/stb/include -I../../../../../../../../../Framework/src -I../../../../src/main/cpp/src -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -stdlib=libc++ -O2 -DNDEBUG  -fPIC   -D CSM_TARGET_ANDROID_ES2  -c ",
+					"src" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Framework/src/Model/CubismUserModel.cpp",
+					"workingDirectory" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android22 --gcc-toolchain=/Users/hgf/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/hgf/Library/Android/sdk/ndk-bundle/sysroot  -DJniBridge_EXPORTS -I../../../../../../../../../Core/include -I../../../../../../../thirdParty/stb/include -I../../../../../../../../../Framework/src -I../../../../src/main/cpp/src -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -stdlib=libc++ -O2 -DNDEBUG  -fPIC   -D CSM_TARGET_ANDROID_ES2  -c ",
+					"src" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Framework/src/Motion/ACubismMotion.cpp",
+					"workingDirectory" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android22 --gcc-toolchain=/Users/hgf/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/hgf/Library/Android/sdk/ndk-bundle/sysroot  -DJniBridge_EXPORTS -I../../../../../../../../../Core/include -I../../../../../../../thirdParty/stb/include -I../../../../../../../../../Framework/src -I../../../../src/main/cpp/src -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -stdlib=libc++ -O2 -DNDEBUG  -fPIC   -D CSM_TARGET_ANDROID_ES2  -c ",
+					"src" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Framework/src/Motion/CubismExpressionMotion.cpp",
+					"workingDirectory" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android22 --gcc-toolchain=/Users/hgf/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/hgf/Library/Android/sdk/ndk-bundle/sysroot  -DJniBridge_EXPORTS -I../../../../../../../../../Core/include -I../../../../../../../thirdParty/stb/include -I../../../../../../../../../Framework/src -I../../../../src/main/cpp/src -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -stdlib=libc++ -O2 -DNDEBUG  -fPIC   -D CSM_TARGET_ANDROID_ES2  -c ",
+					"src" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Framework/src/Motion/CubismMotion.cpp",
+					"workingDirectory" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android22 --gcc-toolchain=/Users/hgf/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/hgf/Library/Android/sdk/ndk-bundle/sysroot  -DJniBridge_EXPORTS -I../../../../../../../../../Core/include -I../../../../../../../thirdParty/stb/include -I../../../../../../../../../Framework/src -I../../../../src/main/cpp/src -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -stdlib=libc++ -O2 -DNDEBUG  -fPIC   -D CSM_TARGET_ANDROID_ES2  -c ",
+					"src" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Framework/src/Motion/CubismMotionJson.cpp",
+					"workingDirectory" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android22 --gcc-toolchain=/Users/hgf/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/hgf/Library/Android/sdk/ndk-bundle/sysroot  -DJniBridge_EXPORTS -I../../../../../../../../../Core/include -I../../../../../../../thirdParty/stb/include -I../../../../../../../../../Framework/src -I../../../../src/main/cpp/src -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -stdlib=libc++ -O2 -DNDEBUG  -fPIC   -D CSM_TARGET_ANDROID_ES2  -c ",
+					"src" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Framework/src/Motion/CubismMotionManager.cpp",
+					"workingDirectory" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android22 --gcc-toolchain=/Users/hgf/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/hgf/Library/Android/sdk/ndk-bundle/sysroot  -DJniBridge_EXPORTS -I../../../../../../../../../Core/include -I../../../../../../../thirdParty/stb/include -I../../../../../../../../../Framework/src -I../../../../src/main/cpp/src -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -stdlib=libc++ -O2 -DNDEBUG  -fPIC   -D CSM_TARGET_ANDROID_ES2  -c ",
+					"src" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Framework/src/Motion/CubismMotionQueueEntry.cpp",
+					"workingDirectory" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android22 --gcc-toolchain=/Users/hgf/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/hgf/Library/Android/sdk/ndk-bundle/sysroot  -DJniBridge_EXPORTS -I../../../../../../../../../Core/include -I../../../../../../../thirdParty/stb/include -I../../../../../../../../../Framework/src -I../../../../src/main/cpp/src -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -stdlib=libc++ -O2 -DNDEBUG  -fPIC   -D CSM_TARGET_ANDROID_ES2  -c ",
+					"src" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Framework/src/Motion/CubismMotionQueueManager.cpp",
+					"workingDirectory" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android22 --gcc-toolchain=/Users/hgf/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/hgf/Library/Android/sdk/ndk-bundle/sysroot  -DJniBridge_EXPORTS -I../../../../../../../../../Core/include -I../../../../../../../thirdParty/stb/include -I../../../../../../../../../Framework/src -I../../../../src/main/cpp/src -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -stdlib=libc++ -O2 -DNDEBUG  -fPIC   -D CSM_TARGET_ANDROID_ES2  -c ",
+					"src" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Framework/src/Physics/CubismPhysics.cpp",
+					"workingDirectory" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android22 --gcc-toolchain=/Users/hgf/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/hgf/Library/Android/sdk/ndk-bundle/sysroot  -DJniBridge_EXPORTS -I../../../../../../../../../Core/include -I../../../../../../../thirdParty/stb/include -I../../../../../../../../../Framework/src -I../../../../src/main/cpp/src -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -stdlib=libc++ -O2 -DNDEBUG  -fPIC   -D CSM_TARGET_ANDROID_ES2  -c ",
+					"src" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Framework/src/Physics/CubismPhysicsJson.cpp",
+					"workingDirectory" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android22 --gcc-toolchain=/Users/hgf/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/hgf/Library/Android/sdk/ndk-bundle/sysroot  -DJniBridge_EXPORTS -I../../../../../../../../../Core/include -I../../../../../../../thirdParty/stb/include -I../../../../../../../../../Framework/src -I../../../../src/main/cpp/src -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -stdlib=libc++ -O2 -DNDEBUG  -fPIC   -D CSM_TARGET_ANDROID_ES2  -c ",
+					"src" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Framework/src/Rendering/CubismRenderer.cpp",
+					"workingDirectory" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android22 --gcc-toolchain=/Users/hgf/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/hgf/Library/Android/sdk/ndk-bundle/sysroot  -DJniBridge_EXPORTS -I../../../../../../../../../Core/include -I../../../../../../../thirdParty/stb/include -I../../../../../../../../../Framework/src -I../../../../src/main/cpp/src -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -stdlib=libc++ -O2 -DNDEBUG  -fPIC   -D CSM_TARGET_ANDROID_ES2  -c ",
+					"src" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Framework/src/Rendering/OpenGL/CubismRenderer_OpenGLES2.cpp",
+					"workingDirectory" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android22 --gcc-toolchain=/Users/hgf/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/hgf/Library/Android/sdk/ndk-bundle/sysroot  -DJniBridge_EXPORTS -I../../../../../../../../../Core/include -I../../../../../../../thirdParty/stb/include -I../../../../../../../../../Framework/src -I../../../../src/main/cpp/src -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -stdlib=libc++ -O2 -DNDEBUG  -fPIC   -D CSM_TARGET_ANDROID_ES2  -c ",
+					"src" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Framework/src/Type/csmRectF.cpp",
+					"workingDirectory" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android22 --gcc-toolchain=/Users/hgf/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/hgf/Library/Android/sdk/ndk-bundle/sysroot  -DJniBridge_EXPORTS -I../../../../../../../../../Core/include -I../../../../../../../thirdParty/stb/include -I../../../../../../../../../Framework/src -I../../../../src/main/cpp/src -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -stdlib=libc++ -O2 -DNDEBUG  -fPIC   -D CSM_TARGET_ANDROID_ES2  -c ",
+					"src" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Framework/src/Type/csmString.cpp",
+					"workingDirectory" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android22 --gcc-toolchain=/Users/hgf/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/hgf/Library/Android/sdk/ndk-bundle/sysroot  -DJniBridge_EXPORTS -I../../../../../../../../../Core/include -I../../../../../../../thirdParty/stb/include -I../../../../../../../../../Framework/src -I../../../../src/main/cpp/src -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -stdlib=libc++ -O2 -DNDEBUG  -fPIC   -D CSM_TARGET_ANDROID_ES2  -c ",
+					"src" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Framework/src/Utils/CubismDebug.cpp",
+					"workingDirectory" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android22 --gcc-toolchain=/Users/hgf/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/hgf/Library/Android/sdk/ndk-bundle/sysroot  -DJniBridge_EXPORTS -I../../../../../../../../../Core/include -I../../../../../../../thirdParty/stb/include -I../../../../../../../../../Framework/src -I../../../../src/main/cpp/src -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -stdlib=libc++ -O2 -DNDEBUG  -fPIC   -D CSM_TARGET_ANDROID_ES2  -c ",
+					"src" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Framework/src/Utils/CubismJson.cpp",
+					"workingDirectory" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android22 --gcc-toolchain=/Users/hgf/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/hgf/Library/Android/sdk/ndk-bundle/sysroot  -DJniBridge_EXPORTS -I../../../../../../../../../Core/include -I../../../../../../../thirdParty/stb/include -I../../../../../../../../../Framework/src -I../../../../src/main/cpp/src -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -stdlib=libc++ -O2 -DNDEBUG  -fPIC   -D CSM_TARGET_ANDROID_ES2  -c ",
+					"src" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Framework/src/Utils/CubismString.cpp",
+					"workingDirectory" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android22 --gcc-toolchain=/Users/hgf/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/hgf/Library/Android/sdk/ndk-bundle/sysroot  -DJniBridge_EXPORTS -I../../../../../../../../../Core/include -I../../../../../../../thirdParty/stb/include -I../../../../../../../../../Framework/src -I../../../../src/main/cpp/src -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -stdlib=libc++ -O2 -DNDEBUG  -fPIC   -D CSM_TARGET_ANDROID_ES2  -c ",
+					"src" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/src/main/cpp/src/LAppAllocator.cpp",
+					"workingDirectory" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android22 --gcc-toolchain=/Users/hgf/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/hgf/Library/Android/sdk/ndk-bundle/sysroot  -DJniBridge_EXPORTS -I../../../../../../../../../Core/include -I../../../../../../../thirdParty/stb/include -I../../../../../../../../../Framework/src -I../../../../src/main/cpp/src -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -stdlib=libc++ -O2 -DNDEBUG  -fPIC   -D CSM_TARGET_ANDROID_ES2  -c ",
+					"src" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/src/main/cpp/src/LAppDefine.cpp",
+					"workingDirectory" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android22 --gcc-toolchain=/Users/hgf/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/hgf/Library/Android/sdk/ndk-bundle/sysroot  -DJniBridge_EXPORTS -I../../../../../../../../../Core/include -I../../../../../../../thirdParty/stb/include -I../../../../../../../../../Framework/src -I../../../../src/main/cpp/src -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -stdlib=libc++ -O2 -DNDEBUG  -fPIC   -D CSM_TARGET_ANDROID_ES2  -c ",
+					"src" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/src/main/cpp/src/LAppDelegate.cpp",
+					"workingDirectory" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android22 --gcc-toolchain=/Users/hgf/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/hgf/Library/Android/sdk/ndk-bundle/sysroot  -DJniBridge_EXPORTS -I../../../../../../../../../Core/include -I../../../../../../../thirdParty/stb/include -I../../../../../../../../../Framework/src -I../../../../src/main/cpp/src -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -stdlib=libc++ -O2 -DNDEBUG  -fPIC   -D CSM_TARGET_ANDROID_ES2  -c ",
+					"src" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/src/main/cpp/src/LAppLive2DManager.cpp",
+					"workingDirectory" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android22 --gcc-toolchain=/Users/hgf/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/hgf/Library/Android/sdk/ndk-bundle/sysroot  -DJniBridge_EXPORTS -I../../../../../../../../../Core/include -I../../../../../../../thirdParty/stb/include -I../../../../../../../../../Framework/src -I../../../../src/main/cpp/src -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -stdlib=libc++ -O2 -DNDEBUG  -fPIC   -D CSM_TARGET_ANDROID_ES2  -c ",
+					"src" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/src/main/cpp/src/LAppModel.cpp",
+					"workingDirectory" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android22 --gcc-toolchain=/Users/hgf/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/hgf/Library/Android/sdk/ndk-bundle/sysroot  -DJniBridge_EXPORTS -I../../../../../../../../../Core/include -I../../../../../../../thirdParty/stb/include -I../../../../../../../../../Framework/src -I../../../../src/main/cpp/src -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -stdlib=libc++ -O2 -DNDEBUG  -fPIC   -D CSM_TARGET_ANDROID_ES2  -c ",
+					"src" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/src/main/cpp/src/LAppPal.cpp",
+					"workingDirectory" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android22 --gcc-toolchain=/Users/hgf/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/hgf/Library/Android/sdk/ndk-bundle/sysroot  -DJniBridge_EXPORTS -I../../../../../../../../../Core/include -I../../../../../../../thirdParty/stb/include -I../../../../../../../../../Framework/src -I../../../../src/main/cpp/src -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -stdlib=libc++ -O2 -DNDEBUG  -fPIC   -D CSM_TARGET_ANDROID_ES2  -c ",
+					"src" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/src/main/cpp/src/LAppSprite.cpp",
+					"workingDirectory" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android22 --gcc-toolchain=/Users/hgf/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/hgf/Library/Android/sdk/ndk-bundle/sysroot  -DJniBridge_EXPORTS -I../../../../../../../../../Core/include -I../../../../../../../thirdParty/stb/include -I../../../../../../../../../Framework/src -I../../../../src/main/cpp/src -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -stdlib=libc++ -O2 -DNDEBUG  -fPIC   -D CSM_TARGET_ANDROID_ES2  -c ",
+					"src" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/src/main/cpp/src/LAppTextureManager.cpp",
+					"workingDirectory" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android22 --gcc-toolchain=/Users/hgf/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/hgf/Library/Android/sdk/ndk-bundle/sysroot  -DJniBridge_EXPORTS -I../../../../../../../../../Core/include -I../../../../../../../thirdParty/stb/include -I../../../../../../../../../Framework/src -I../../../../src/main/cpp/src -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -stdlib=libc++ -O2 -DNDEBUG  -fPIC   -D CSM_TARGET_ANDROID_ES2  -c ",
+					"src" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/src/main/cpp/src/LAppView.cpp",
+					"workingDirectory" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android22 --gcc-toolchain=/Users/hgf/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/hgf/Library/Android/sdk/ndk-bundle/sysroot  -DJniBridge_EXPORTS -I../../../../../../../../../Core/include -I../../../../../../../thirdParty/stb/include -I../../../../../../../../../Framework/src -I../../../../src/main/cpp/src -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/hgf/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -stdlib=libc++ -O2 -DNDEBUG  -fPIC   -D CSM_TARGET_ANDROID_ES2  -c ",
+					"src" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/src/main/cpp/src/TouchManager.cpp",
+					"workingDirectory" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/.externalNativeBuild/cmake/release/x86"
+				}
+			],
+			"output" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/build/intermediates/cmake/release/obj/x86/libJniBridge.so",
+			"toolchain" : "1047372720379027031"
+		},
+		"Live2DCubismCore-Release-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "Live2DCubismCore",
+			"buildType" : "release",
+			"output" : "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/../../../../../Core/lib/android/x86/libLive2DCubismCore.a",
+			"toolchain" : "1047372720379027031"
+		}
+	},
+	"toolchains" : 
+	{
+		"1047372720379027031" : 
+		{
+			"cCompilerExecutable" : "/Users/hgf/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/hgf/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}

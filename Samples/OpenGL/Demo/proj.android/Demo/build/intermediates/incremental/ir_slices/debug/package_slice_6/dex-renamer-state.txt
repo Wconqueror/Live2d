@@ -1,0 +1,4 @@
+#Wed Dec 12 18:24:14 CST 2018
+base.0=/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/build/intermediates/transforms/dexMerger/debug/6
+path.0=classes.dex
+renamed.0=classes.dex

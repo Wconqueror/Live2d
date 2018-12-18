@@ -1,0 +1,113 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/hgf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/369ae020e4ac7559dc7541adc36de7fb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/hgf/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/c7dfe7e717c558053286c0978a3bbc2f/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/hgf/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/c24bcc885e8bab66f4a7a6bd72e86c7d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/hgf/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/86abaf26ad02a5abd44441d3134131bf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/hgf/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/3d8d00736c679c92a560b6ba52fea747/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/hgf/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/d0539adee2226c50f16107dc04a886c1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/hgf/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/5e3b06f4238c5893a649efcec4b19fd7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/hgf/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/e4c8dd7e70d890007d03324484f2c31e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/hgf/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/3a0653c633bd2695c5d0ff7a78cfd898/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/hgf/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/24190032ba4ad657cec7920740aa6b3d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/hgf/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5ebb13de6728b8d76012bdd6203fe585/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/hgf/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d50cdd51e93d09166b84d5c57be01f4a/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/src/main/AndroidManifest.xml:3:5-30
+		INJECTED from /Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/src/main/AndroidManifest.xml
+		INJECTED from /Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/src/main/AndroidManifest.xml
+		ADDED from /Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/src/main/AndroidManifest.xml
+		ADDED from /Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/src/main/AndroidManifest.xml:2:11-69
+uses-feature#0x00020000
+ADDED from /Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/src/main/AndroidManifest.xml:5:5-78
+	android:glEsVersion
+		ADDED from /Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/src/main/AndroidManifest.xml:5:19-51
+	android:required
+		ADDED from /Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/src/main/AndroidManifest.xml:5:52-75
+application
+ADDED from /Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/src/main/AndroidManifest.xml:7:5-23:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/hgf/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/c7dfe7e717c558053286c0978a3bbc2f/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/hgf/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/c7dfe7e717c558053286c0978a3bbc2f/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/src/main/AndroidManifest.xml:13:9-56
+activity#com.live2d.demo.MainActivity
+ADDED from /Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/src/main/AndroidManifest.xml:14:9-22:20
+	android:screenOrientation
+		ADDED from /Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/src/main/AndroidManifest.xml:16:13-50
+	android:configChanges
+		ADDED from /Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/src/main/AndroidManifest.xml:15:13-59
+	android:name
+		ADDED from /Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/src/main/AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/src/main/AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from /Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/src/main/AndroidManifest.xml
+INJECTED from /Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/hgf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/369ae020e4ac7559dc7541adc36de7fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/hgf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/369ae020e4ac7559dc7541adc36de7fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/hgf/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/c7dfe7e717c558053286c0978a3bbc2f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/hgf/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/c7dfe7e717c558053286c0978a3bbc2f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/hgf/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/c24bcc885e8bab66f4a7a6bd72e86c7d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/hgf/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/c24bcc885e8bab66f4a7a6bd72e86c7d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/hgf/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/86abaf26ad02a5abd44441d3134131bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/hgf/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/86abaf26ad02a5abd44441d3134131bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/hgf/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/3d8d00736c679c92a560b6ba52fea747/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/hgf/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/3d8d00736c679c92a560b6ba52fea747/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/hgf/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/d0539adee2226c50f16107dc04a886c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/hgf/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/d0539adee2226c50f16107dc04a886c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/hgf/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/5e3b06f4238c5893a649efcec4b19fd7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/hgf/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/5e3b06f4238c5893a649efcec4b19fd7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/hgf/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/e4c8dd7e70d890007d03324484f2c31e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/hgf/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/e4c8dd7e70d890007d03324484f2c31e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/hgf/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/3a0653c633bd2695c5d0ff7a78cfd898/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/hgf/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/3a0653c633bd2695c5d0ff7a78cfd898/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/hgf/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/24190032ba4ad657cec7920740aa6b3d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/hgf/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/24190032ba4ad657cec7920740aa6b3d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/hgf/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5ebb13de6728b8d76012bdd6203fe585/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/hgf/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5ebb13de6728b8d76012bdd6203fe585/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/hgf/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d50cdd51e93d09166b84d5c57be01f4a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/hgf/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d50cdd51e93d09166b84d5c57be01f4a/AndroidManifest.xml:20:5-44
+INJECTED from /Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/src/main/AndroidManifest.xml
+INJECTED from /Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/src/main/AndroidManifest.xml
+		ADDED from /Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/src/main/AndroidManifest.xml
+		INJECTED from /Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/src/main/AndroidManifest.xml
+		ADDED from /Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/src/main/AndroidManifest.xml
+		INJECTED from /Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/src/main/AndroidManifest.xml

@@ -1,0 +1,49 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "export_example_PNG.moc3",
+		"Textures": [
+			"export_example_PNG.1024/texture_00.png",
+			"export_example_PNG.1024/texture_01.png",
+			"export_example_PNG.1024/texture_02.png",
+			"export_example_PNG.1024/texture_03.png",
+			"export_example_PNG.1024/texture_04.png",
+			"export_example_PNG.1024/texture_05.png",
+			"export_example_PNG.1024/texture_06.png",
+			"export_example_PNG.1024/texture_07.png",
+			"export_example_PNG.1024/texture_08.png",
+			"export_example_PNG.1024/texture_09.png",
+			"export_example_PNG.1024/texture_10.png",
+			"export_example_PNG.1024/texture_11.png",
+			"export_example_PNG.1024/texture_12.png",
+			"export_example_PNG.1024/texture_13.png",
+			"export_example_PNG.1024/texture_14.png",
+			"export_example_PNG.1024/texture_15.png",
+			"export_example_PNG.1024/texture_16.png",
+			"export_example_PNG.1024/texture_17.png",
+			"export_example_PNG.1024/texture_18.png"
+		],
+"Motions": {
+			"Idle": [
+                {
+                    "File": "motions/export_02.motion3.json",
+                    "FadeInTime": 0.0,
+                    "FadeOutTime": 0.0
+                }
+			]
+		}
+
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}

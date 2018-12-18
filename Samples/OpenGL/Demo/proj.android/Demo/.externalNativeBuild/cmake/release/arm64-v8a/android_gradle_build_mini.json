@@ -1,0 +1,21 @@
+{
+  "buildFiles": [
+    "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/hgf/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/.externalNativeBuild/cmake/release/arm64-v8a --target clean"
+  ],
+  "libraries": {
+    "JniBridge-Release-arm64-v8a": {
+      "artifactName": "JniBridge",
+      "buildCommand": "/Users/hgf/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/.externalNativeBuild/cmake/release/arm64-v8a --target JniBridge",
+      "abi": "arm64-v8a",
+      "output": "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/build/intermediates/cmake/release/obj/arm64-v8a/libJniBridge.so"
+    },
+    "Live2DCubismCore-Release-arm64-v8a": {
+      "artifactName": "Live2DCubismCore",
+      "abi": "arm64-v8a",
+      "output": "/Users/hgf/Desktop/Cubism3SDKforNative-beta8/Samples/OpenGL/Demo/proj.android/Demo/../../../../../Core/lib/android/arm64-v8a/libLive2DCubismCore.a"
+    }
+  }
+}
